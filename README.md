@@ -22,3 +22,21 @@ For example:
 ```js
 findFrequency(['a', 'b', 'c', 'a', 'b', 'c', 'a', 'a', 'd']); // { most: 'a', least: 'd' }
 ```
+
+## Problem 3
+Write a function called `isPalindrome` that takes an argument as a string and returns `true` if that string is a palindrome and `false` if that string is not a palindrome. You can assume that all strings will be single words with no spaces.
+For example:
+
+```js
+isPalindrome('canal'); // false
+isPalindrome('Ana'); // true
+```
+
+## Problem 4
+Write a function called `largestPair` that takes an array of integers and finds the pair of adjacent elements that has the largest product and return that product.
+For example:
+
+```js
+largestPair([5, 1, 2, 3, 1, 4]); // 6
+largestPair([9, 5, 10, 2, 24, -1, -48]) // 50
+```
