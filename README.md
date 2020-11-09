@@ -40,3 +40,29 @@ For example:
 largestPair([5, 1, 2, 3, 1, 4]); // 6
 largestPair([9, 5, 10, 2, 24, -1, -48]) // 50
 ```
+
+## Problem 5
+Write a function called `removeParenth` that takes one argument (a string) which has parentheses (1 open and 1 close) and returns that same string, but without the parentheses and the text inside the parentheses. You can assume that the string is one word with no spaces and only 1 set of parentheses.
+For example:
+
+```js
+removeParenth('ido(not)liketocode'); // 'idoliketocode'
+```
+
+## Problem 6
+Write a function called `scoreScrabble` which takes a string as an argument (a single word) and returns the word's scrabble score as a number. For reference, the following letters are the worth the following points:
+
+1 - a, e, i, o, u, l, n, r, s and t
+2 - d, g
+3 - b, c, m, p
+4 - f, h, v, w, y
+5 - k
+8 - j, x
+10 - q, z
+
+Examples:
+
+```js
+scoreScrabble('hello'); // 8
+scoreScrabble('quiet'); // 14
+```
