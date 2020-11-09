@@ -18,7 +18,6 @@ const removeParenth = function(str) {
   // your code here - don't forget to return a string!
 };
 
-
 const scoreScrabble = function(str) {
   // your code here - don't forget to return a number!
 };
