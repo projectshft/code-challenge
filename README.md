@@ -12,5 +12,13 @@ Write a function called `findSum` that takes an array of numbers as an argument 
 For example:
 
 ```js
-findSum([2, 4, 6]); // 12
+findSum([2, 4, 6]);  // 12
+```
+
+## Problem 2
+Write a function called `findFrequency` to find the MOST frequent item, and the LEAST frequent item in any given array of strings. It should return an object that looks like this: `{ most: 'a', least: 'd'}`. Note, you can assume that `findFrequency` will always be called with an array of strings passed in as an argument.
+For example:
+
+```js
+findFrequency(['a', 'b', 'c', 'a', 'b', 'c', 'a', 'a', 'd']); // { most: 'a', least: 'd' }
 ```
