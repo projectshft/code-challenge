@@ -4,7 +4,7 @@ Below are 6 coding problems, each worth several points. In total, 20 points are 
 
 Please read each prompt carefully and follow the directions. When you're finished you'll submit you work through a form and your work will then be immediately and automatically graded. If you submit your work incorrectly, it could lead to misleading, failing results.
 
-It is recommended that you use the `submission-template.js` file as a starting point.
+It is recommended that you use the (`submission-template.js`)[submission-template.js] file as a starting point.
 
 
 ## Problem 1
