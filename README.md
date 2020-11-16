@@ -8,7 +8,7 @@ It is recommended that you use the [`submission-template.js`](submission-templat
 
 
 ## Problem 1 - Worth 4 Points
-Write a function called `findSum` that takes an array of numbers as an argument and finds the average of that array of numbers and returns that average as a number.
+Write a function called `findSum` that takes an array of numbers as an argument and finds the average of that array of numbers and returns the sum as a number.
 For example:
 
 ```js
