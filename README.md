@@ -1,4 +1,4 @@
-# Project Shift Coding Challenge
+# Parsity Coding Challenge
 
 Below are 6 coding problems, each worth several points. In total, 20 points are available and you must get 14 in order to "pass". But not to worry! If you do not pass the first time, you will be able to attempt the challenge again.
 
