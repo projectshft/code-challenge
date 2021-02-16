@@ -50,7 +50,7 @@ removeParenth('ido(not)liketocode'); // 'idoliketocode'
 ```
 
 ## Problem 6 - Worth 2 Points
-Write a function called `scoreScrabble` which takes a string as an argument (a single word) and returns the word's scrabble score as a number. For reference, the following letters are the worth the following points:
+Write a function called `scoreScrabble` which takes a string as an argument (a single word) and returns the word's scrabble score as a number. For reference, the following letters are the worth of the following points:
 
 * 1 - a, e, i, o, u, l, n, r, s, t
 * 2 - d, g
