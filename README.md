@@ -4,7 +4,14 @@ Below are 6 coding problems, each worth several points. In total, 20 points are 
 
 Please read each prompt carefully and follow the directions. When you're finished you'll submit you work through a form and your work will then be immediately and automatically graded. If you submit your work incorrectly, it could lead to misleading, failing results.
 
-It is recommended that you use the [`submission-template.js`](submission-template.js) file as a starting point.
+Use the [`submission-template.js`](submission-template.js) file as a starting point.
+
+## Notes on Submitting (**important**, please read)
+* _**DO NOT**_ submit with any `console.log` statements in your file. 
+
+* _**DO NOT**_ edit the function definitions. You should simply write your code inside each function body. The functions are provided for you as a starting point in the `submission-template.js` file.
+
+* _**DO NOT**_ create your own values inside the functions. We have a test suite which will pass in its own values. For example, in `findSum`, there is an array of numbers (called `array`) passed into the function as a parameter. You should work with `array` to write your solution. It's fine to pass your own values as you're working, but write the function body with the assumption that it should work against any appropriate values that are passed in. 
 
 
 ## Problem 1 - Worth 4 Points
